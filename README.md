@@ -1,1 +1,1 @@
-Prueba de git, subiendo archivo README en github
+prueba de git, subiendo archivo README en github
